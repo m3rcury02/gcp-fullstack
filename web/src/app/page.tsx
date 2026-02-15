@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <main style={{ maxWidth: 720, margin: "40px auto", fontFamily: "system-ui", padding: 16 }}>
       <h1>Gunal's GCP Cloud Run Full Stack (TS)</h1>
-      <p>Next.js → Express API (Cloud Run) → Firestore</p>
+      <p>Next.js + Express API (Cloud Run) + Firestore</p>
 
       <div style={{ display: "flex", gap: 8, marginTop: 16 }}>
         <input
